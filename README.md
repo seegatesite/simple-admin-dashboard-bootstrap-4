@@ -1,4 +1,4 @@
-# simple-admin-dashboard-bootstrap-4
+# Simple Admin Dashboard Bootstrap 4
 Hello,
 This is simple admin dashboard with Bootstrap 4 and JQuery. You can use this theme for your application and modify it.
 
